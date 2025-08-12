@@ -1,0 +1,14 @@
+# AI心理健康咨询机器人依赖
+# AI Therapist Bot Dependencies
+
+# 数据库 Database
+pymongo>=4.6.0
+
+# 环境配置 Environment
+python-dotenv>=1.0.0
+
+# 进度条 Progress Bar
+tqdm>=4.65.0
+
+# HTTP请求 HTTP Requests (用于DeepSeek API)
+requests>=2.31.0 
