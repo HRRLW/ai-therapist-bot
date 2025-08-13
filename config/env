@@ -1,0 +1,11 @@
+
+# API Key for your LLM provider (required)
+LLM_API_KEY=sk-your_api_key_here
+
+# Base URL for the LLM API (optional, defaults to OpenAI's API)
+# For OpenAI: https://api.openai.com/v1
+# For DeepSeek: https://api.deepseek.com/v1 (example)
+LLM_API_BASE=https://api.openai.com/v1
+
+# Model name (optional, defaults to gpt-4o-mini)
+LLM_MODEL=gpt-4o-mini

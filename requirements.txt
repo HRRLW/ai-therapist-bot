@@ -11,4 +11,10 @@ python-dotenv>=1.0.0
 tqdm>=4.65.0
 
 # HTTP请求 HTTP Requests (用于DeepSeek API)
-requests>=2.31.0 
+requests>=2.31.0
+
+# 自动修复常见乱码
+ftfy>=6.2.0
+
+# 数据处理与分析库
+pandas>=2.0
